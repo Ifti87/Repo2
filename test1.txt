@@ -1,0 +1,10 @@
+ Volume in drive C is TI106051W0I
+ Volume Serial Number is 9A13-3AAF
+
+ Directory of C:\Users\Abul Islam\Desktop\MyProject
+
+05/16/2018  04:25 AM    <DIR>          .
+05/16/2018  04:25 AM    <DIR>          ..
+05/16/2018  04:25 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  305,367,502,848 bytes free
