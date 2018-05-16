@@ -8,3 +8,5 @@
 05/16/2018  04:25 AM                 0 test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  305,367,502,848 bytes free
+
+This file contains nothing rather than some folder info
